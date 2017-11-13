@@ -5,8 +5,5 @@ def my_collect(array)
     yield array[count]
     # array.first << first_name
     count += 1
-  end 
-  first_name
+  end
 end
-    
-
